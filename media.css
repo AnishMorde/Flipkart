@@ -1,0 +1,194 @@
+
+@media screen and (max-width:1288px) {
+    .nav-toggle{
+        display: block;
+        position: relative;
+        font-size:25px;
+
+
+    }
+    .nav2{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .nav2 .input{
+        display: none;
+    }
+
+    
+    .nav2 .seller{
+        display: none;
+    }
+
+    .nav2 .dot{
+        display: none;
+    }
+
+.main3{
+    height: 800px;
+}
+
+
+.hero3{
+    height: 800px;
+    width: 100%;
+  
+
+
+}
+.box{
+    height: 300px;
+    width: 25%;
+    margin-top: 20px;
+
+  
+}
+
+.main2{
+    height: 150px;
+   
+
+}
+
+.hero2{
+   height: 150px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+}
+
+.main{
+    height: 150px;
+  
+
+}
+
+.hero{
+   height: 150px;
+   width: 100%;
+   
+
+}
+
+.grocery{
+    display:inline-block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 700;
+
+
+}
+
+    
+}
+
+
+
+
+@media screen and (max-width:624px){
+    .nav{
+        height: 30px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.226);
+    
+    }
+
+    .nav2{
+        background-color: transparent;
+    }
+
+   
+    .button{
+       height: 30px; 
+       font-size: 15px;
+       width: 100px;
+       background-color: transparent;
+     
+    }
+
+    .main{
+        height: 100px;
+        background-color: white;
+
+    }
+
+    .hero{
+      height: 80px;
+      display: flex;
+      justify-content:space-between;
+      margin-top: 20px;
+      align-items: center;
+    }
+.nav-toggle{
+    font-size: 22px;
+}
+
+.main2{
+    width: 100%;
+    height: 100px;
+}
+
+.hero2{
+    height: 100px;
+}
+
+.main3{
+    width: 100%;
+    height: 650px;
+}
+
+.hero3{
+    height: auto;
+    width:100%
+    
+}
+
+.box{
+    height:250px;
+}
+
+.grocery{
+    font-size: small;
+  
+}
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width:430px){
+  .logo{
+    margin-left:-40px
+  }  
+  .nav2{
+    position: relative;
+    left: 35px;
+    display: flex;
+    justify-content:flex-end;
+  }
+
+  
+.box{
+    width: 40%;
+    height:220px;
+}
+.main3{
+    height: 800px;
+}
+
+.main2{
+  height: 95px;
+}
+
+.hero2{
+    height: 95px;
+}
+
+
+
+}
